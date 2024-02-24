@@ -29,6 +29,24 @@
 
 <br>
 
+### **Assigning IP Address to a Switch**
+   1. `S1> enable`  
+   2. `S1# configure terminal`
+   3. `S1(config)# interface vlan 1`  - Enter Interface Configuration Mode
+   4. `S1(config-if)# ip address 192.168.1.253 255.255.255.0`
+   5. `S1(config-if)# no shutdown`  - Enable the interface
+
+<br>
+
+### **Setting up Virtual Terminal Lines(VTY)**
+   1. `S1> enable`  
+   2. `S1# configure terminal`
+   3. `S1(config)# line vty 0 4`  - Enter VTY Line Configuration Mode
+   4. `S1(config-line)# password c1$c0`  - Set the VTY password
+   5. `S1(config-line)# login`  - Enable login on the VTY lines
+* VTY lines are used to remotely connect to a switch using Telnet
+   
+
 ### **IP Classes**  
    * **Class A** - 1-126
    * **Class B** - 128-191
