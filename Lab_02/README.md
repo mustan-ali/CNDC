@@ -25,7 +25,8 @@
    10. `S1(config)# enable secret c1$c0`  - Set the encrypted privileged exec password(encrypted)
    11. `S1(config)# service password-encryption`   - Encrypt all passwords(plaintext to encrypted)
    12. `S1(config)# banner motd "Authorized Access Only!"`  - Set the message of the day banner
-   13. `S1(config)# copy running-config startup-config`  - Save the configuration to NVRAM(Non-Volatile RAM)
+   13. `S1(config)# exit`
+   14. `S1# copy running-config startup-config`  - Save the configuration to NVRAM(Non-Volatile RAM)
 
 <br>
 
