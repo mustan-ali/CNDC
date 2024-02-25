@@ -22,7 +22,7 @@
    7. `S1(config-line)# login`  - Enable login on the console
    8. `S1(config-line)# exit`  
    9. `S1(config)# enable password c1$c0`  - Set the privileged exec password(plaintext)
-   10. `S1(config)# enable secret c1$c0`  - Set the encrypted privileged exec password(encrypted)
+   10. `S1(config)# enable secret itsasecret`  - Set the privileged exec password(encrypted), overrides the enable password
    11. `S1(config)# service password-encryption`   - Encrypt all passwords(plaintext to encrypted)
    12. `S1(config)# banner motd "Authorized Access Only!"`  - Set the message of the day banner
    13. `S1(config)# exit`
