@@ -19,3 +19,8 @@
     *   Switch Gateway Configuration
 * **Lab_04**
     *   DHCP Configuration on Router
+* **Lab_05**
+    *   Creating a VLAN & Assigning Ports
+    *   Assigning IP Address to VLAN Interface
+    *   Removing VLAN & Ports
+    *   Configuring Trunk
