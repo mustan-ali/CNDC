@@ -36,3 +36,8 @@
   5. `Switch(config-if)# exit`
   6. `Switch(config)# end`
   7. `Switch# show interfaces trunk`  - Verify the Trunk Configuration
+
+---
+
+<img src='./L5.png' /><br>
+<img src='./L5_CA.png' /><br>
