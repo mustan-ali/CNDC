@@ -63,5 +63,7 @@
 * Subnet Mask - Determines the network and host portions of an IP address     
 
 ---
-
-<img src='./L2.png' /><br>
+<details>
+<summary><strong>Screenshot</strong></summary>
+<img src='./L2.png' />
+</details>
