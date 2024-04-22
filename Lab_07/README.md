@@ -51,5 +51,8 @@
 
 </details>
 
+<details>
+<summary><strong>Screenshot</strong></summary>
 <img src='./L7_A.png' /><br>
-<img src='./L7_B.png' /><br>
+<img src='./L7_B.png' /><be>
+</be>details>
