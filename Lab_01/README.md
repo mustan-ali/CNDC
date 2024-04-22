@@ -25,5 +25,7 @@
         > 1.1.1.1
       ```
 ---
-
-<img src='./L1.png' /><br>
+<details>
+<summary><strong>Screenshot</strong></summary>
+<img src='./L1.png' />
+</detail
