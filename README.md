@@ -24,3 +24,9 @@
     *   Assigning IP Address to VLAN Interface
     *   Removing VLAN & Ports
     *   Configuring Trunk
+* **Lab_06**
+    *   Port Security
+    *   Subinterfaces on Router
+    *   Trunk Configuration
+* **Lab_07**
+    *   Static Routing
