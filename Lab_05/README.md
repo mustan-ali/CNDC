@@ -39,5 +39,8 @@
 
 ---
 
+<details>
+<summary><strong>Screenshot</strong></summary>
 <img src='./L5.png' /><br>
-<img src='./L5_CA.png' /><br>
+<img src='./L5_CA.png' />
+</details>
