@@ -32,5 +32,8 @@
 | S3         | Vlan 1        | 10.0.0.2       | 255.0.0.0       | 10.0.0.1            |
 </details>
 
+<details>
+<summary><strong>Screenshot</strong></summary>
 <img src='./L4.png' /><br>
-<img src='./L4_A.png' /><br>
+<img src='./L4_A.png' />
+</details>
