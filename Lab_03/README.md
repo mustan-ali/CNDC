@@ -38,4 +38,7 @@
 | PC2        | NIC           | 192.168.1.5    | 255.255.255.0   | 192.168.1.1         |
 </details>
 
-<img src='./L3.png' /><br>
+<details>
+<summary><strong>Screenshot</strong></summary>
+<img src='./L3.png' />
+</details>
