@@ -30,3 +30,5 @@
     *   Trunk Configuration
 * **Lab_07**
     *   Static Routing
+* **Lab_08**
+    *   Dynamic Routing (RIP)
