@@ -32,3 +32,5 @@
     *   Static Routing
 * **Lab_08**
     *   Dynamic Routing (RIP)
+* **Lab_09**
+    *   Dynamic Routing (OSPF)
