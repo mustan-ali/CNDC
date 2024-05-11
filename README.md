@@ -34,3 +34,5 @@
     *   Dynamic Routing (RIP)
 * **Lab_09**
     *   Dynamic Routing (OSPF)
+* **Lab_10**
+    *   Dynamic Routing (EIGRP)
