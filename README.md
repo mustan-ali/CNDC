@@ -38,3 +38,5 @@
     *   Dynamic Routing (EIGRP)
 * **Lab_11**
     *   Access Control List (ACL)
+* **Lab_12**
+    *   Network Address Translation (NAT) - Static, Dynamic, PAT
