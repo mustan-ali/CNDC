@@ -2,7 +2,7 @@
   1. `Router> enable`
   2. `Router# configure terminal`
   3. `Router(config)# router eigrp 1` - Start EIGRP process with process ID 1
-  4. `Router(config-router)# network 192.168.1.0 0.0.0.255 area 0` - Network IP with wildcard mask and area ID
+  4. `Router(config-router)# network 192.168.1.0 0.0.0.255` - Network IP with wildcard mask
 
 ---
 
